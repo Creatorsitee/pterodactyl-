@@ -37,6 +37,9 @@ $DOMAIN
 n
 n
 y
+y
+y
+y
 EOF
 
 # Jaga container biar gak mati setelah install selesai
