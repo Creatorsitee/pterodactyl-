@@ -22,7 +22,7 @@ echo "Memulai Auto-Install Pterodactyl..."
 
 # Eksekusi installer (Input otomatis)
 bash <(curl -s https://pterodactyl-installer.se) <<EOF
-1
+0
 $DB_NAME
 $DB_USER
 $DB_PASS
